@@ -27,7 +27,10 @@
 # Дизайн
 
 http://this-is-me.tilda.ws/ – главная страница.
+
 http://this-is-me.tilda.ws/page27872213.html – личный кабинет пользователя.
+
 http://this-is-me.tilda.ws/page28607838.html – расписание.
-http://this-is-me.tilda.ws/page28742616.html – визитная страница (онлайн-доски).
+
 http://this-is-me.tilda.ws/page28723907.html – домашки.
+
